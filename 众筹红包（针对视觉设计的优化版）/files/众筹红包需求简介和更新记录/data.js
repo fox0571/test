@@ -1,0 +1,2576 @@
+﻿$axure.loadCurrentPage({
+  "url":"众筹红包需求简介和更新记录.html",
+  "generationDate":new Date(1464855297059.86),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"18a388748fae4d35824d13e1f42cdca6",
+    "type":"Axure:Page",
+    "name":"众筹红包需求简介和更新记录",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"80891c5c6f454a229673a6e068c05b17",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":55,
+              "y":230},
+            "size":{
+              "width":300,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"dbc1f066265a46bbb21ba8dacae9be42",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":55,
+                  "y":230},
+                "size":{
+                  "width":300,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1662c0df6e7a44458292758e2b1ecaaa",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":55,
+              "y":249},
+            "size":{
+              "width":985,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u2_line.png"}},
+{
+          "id":"20faf464736d4f87b78a5c0734258ef3",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":2042},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"63742338f1124873a98e9f20a302414f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":2000},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"53de188c69c741348ef0e771e4c76686",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":2000},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"80070f59a0324c338f42373822eb3e70",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":1918},
+            "size":{
+              "width":62,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7b327724c8ee44139735a7b4cd27f773",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":1918},
+                "size":{
+                  "width":62,
+                  "height":16}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9f285904280e463289b17ab3d9b90d4b",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e7fcc5fe8c81441ebf90d2c2dd872c72",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":55,
+              "y":41},
+            "size":{
+              "width":300,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9bcafea7195c4a89b3a3f7943032605b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":55,
+                  "y":41},
+                "size":{
+                  "width":300,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"35ad9bf974cf4f549181c23b710fcf55",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":55,
+              "y":60},
+            "size":{
+              "width":985,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u2_line.png"}},
+{
+          "id":"eb6f2a8b626b40e58d24b918a1885a36",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":55,
+              "y":90},
+            "size":{
+              "width":945,
+              "height":95}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e982194ac0f84991929c3ff32d92990e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":55,
+                  "y":90},
+                "size":{
+                  "width":945,
+                  "height":95}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0b1b2b8504a746ffa8470e6dc7c347b7",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1887},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"4f21a1561750450394302427439c9ef0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":1845},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f12e99e93f924eaca181ebf91dfc947d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":1845},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0ac9b9b75f4a4a00bb8981df67fb1249",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1763},
+            "size":{
+              "width":452,
+              "height":64}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"635937c912a145a0aa18d446e7a766af",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":58,
+                  "y":1763},
+                "size":{
+                  "width":452,
+                  "height":64}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b135ff2cee6e4d069a1aaaa4e3c1b6fe",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"377e3eaba98d497abe863ac346497005",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 点击消息体进入详情页(发送红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"点击消息体进入详情页_发送红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"b3547fe72694446daabe1fabb404ebb6",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】点击消息体进入详情页(收到红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】点击消息体进入详情页_收到红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"5ddd18c0411f4e27a4fe37477eed1310",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】点击消息体进入详情页(收到红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】点击消息体进入详情页_收到红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"576f0c68730a49f59dd9bd6b2683906c",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 塞钱进红包（收红包的人）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"塞钱进红包（收红包的人）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c958aaa2468a4f58b4c76994e3982d44",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1722},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"2f896c6ae381457ea46cfed2609236ca",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":1680},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1114d2053b4044ca963d1e3079a7ee48",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":1680},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"403b5584e3bb4176a97fdcb0b2852cda",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1488},
+            "size":{
+              "width":440,
+              "height":160}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a92e5e41b0164828ab81354857df9757",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":58,
+                  "y":1488},
+                "size":{
+                  "width":440,
+                  "height":160}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cfb507da37764f53aa3913e33c024659",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"480675283ebb4757984c73c398c6c632",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"625b44db742c43919207b41d235e3603",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】群会话入口",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】群会话入口.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"facd71195623470d86fbdfdccc50bb8b",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 点击消息体进入详情页(发送红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"点击消息体进入详情页_发送红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"899b78fed3f54ac48003df55cdf3e157",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 塞钱进红包（收红包的人）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"塞钱进红包（收红包的人）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"736b207a3f214b7680db5b9b56f851ec",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 推给发红包的用户",
+                              "target":{
+                                "targetType":"page",
+                                "url":"推给发红包的用户.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"51e07c75534c4db3b13e55ab0dd0b3b6",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 用户未拆红包或未塞满过期，24小时返回金额",
+                              "target":{
+                                "targetType":"page",
+                                "url":"用户未拆红包或未塞满过期，24小时返回金额.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"9e54343fc0b949df8beb94682839e981",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"d1ec3551c0ce4baca95efa32802fc601",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 易信钱包/易信红包公众号入口",
+                              "target":{
+                                "targetType":"page",
+                                "url":"易信钱包_易信红包公众号入口.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"3eddbcb593634da7b6000f31db1b3bd3",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 易信钱包/易信红包公众号入口",
+                              "target":{
+                                "targetType":"page",
+                                "url":"易信钱包_易信红包公众号入口.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"02a440e825c54653b558550c344fced2",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1452},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"1f42a58d5539420e9d35bd36da8c5cf0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":1410},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"711c5f126f584ab7be7d83f0cdfa584a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":1410},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9ab5259cb7f24eb29681ed9db3e42d27",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1346},
+            "size":{
+              "width":440,
+              "height":80}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"97777f4861914496b9fb76fc6dce08b1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":58,
+                  "y":1346},
+                "size":{
+                  "width":440,
+                  "height":80}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7761b9e17d464d63b4267cb25ebb9f45",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"1c29702d75c241d1bb1c53f5aaca8b08",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 塞钱进红包（收红包的人）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"塞钱进红包（收红包的人）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9e8879df97184ecebbe61b7481c5dec9",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1302},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"f29f0431affb4d51a1daa9298f0a8db2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":1260},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e6a179b9e8d94e5ca5ea1668de1e4fcd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":1260},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f2359d099ac747dc9db10ba43971c5f1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":1196},
+            "size":{
+              "width":440,
+              "height":64}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3bc9f89cf67a46f1b3126d0efa529595",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":1196},
+                "size":{
+                  "width":440,
+                  "height":64}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"19d99d573c9746c5b5be8bb9e2d26474",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"ab0b58d24fea4a85bd4bc3d0b740b7ff",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 易信钱包/易信红包公众号入口",
+                              "target":{
+                                "targetType":"page",
+                                "url":"易信钱包_易信红包公众号入口.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"11d7c45ade56444dbf909cd106331b8c",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】群会话入口",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】群会话入口.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0bf34cb3462f48b18c8fcbfa39aa0860",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1158},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"b8fa7204da4f45cb9ea9a16655bb3b08",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":1116},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"54a692ba3ccd4c7eab8af4d609e941ec",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":1116},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"99b09666bab1411e8707f921804c6d49",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":1042},
+            "size":{
+              "width":440,
+              "height":64}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"935f682ca14747e5bd0b805f98d1765c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":1042},
+                "size":{
+                  "width":440,
+                  "height":64}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"645d5d8abccb4f81bfb53a37d1f4c0ed",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"7f166285061b4ecbb837f1d1bf1bdf5f",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】点击消息体进入详情页(收到红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】点击消息体进入详情页_收到红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"98963cf984f04a19bf2a21812f31d499",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】点击消息体进入详情页(收到红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】点击消息体进入详情页_收到红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"fff1ef9ba3b64465a38d95a0fc42dea8",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":1002},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"3aac915074364adbb0b4f70b7a3bca19",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":960},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"99c31decca3a462580bf5a92567aa0c7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":960},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9990105b4c1846ba9a923729c51975d1",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":918},
+            "size":{
+              "width":440,
+              "height":32}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"12a7ddb92d9a4b799d710549d6afefc9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":918},
+                "size":{
+                  "width":440,
+                  "height":32}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2ea2d306aee6451193a5470b8f7808ec",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"0115209f721a407cad0d74e8fc6d6cab",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 塞钱进红包（收红包的人）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"塞钱进红包（收红包的人）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"e2d31883cd1144a0a4b7d5b6465702c6",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"74f4a26c290b48c0b14b25a5d7c9f2c1",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":872},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"50f3f69c692d49efa37b72dc37ef2efa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":830},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"90a2708cab774ad7b56100b4f2a797e3",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":830},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c686e9d918a74994954d2679f0d58280",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":788},
+            "size":{
+              "width":440,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d17cefef6f9644c0ad221d4c1e305927",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":788},
+                "size":{
+                  "width":440,
+                  "height":48}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"37a66c448126492cb0446aa878379611",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"3082ba5dfe35429db1ef0f9a646cb24b",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 推给发红包的用户",
+                              "target":{
+                                "targetType":"page",
+                                "url":"推给发红包的用户.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"2d5b446ffa404666b84a4141977eb60f",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【2个页面需视觉设计】群会话入口",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【2个页面需视觉设计】群会话入口.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3dc771d20df544f698a2d96205674937",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":750},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"c61f2e668b9a436c85c56c15e1d490ac",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":708},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"033384db93384740ad4486b658894c75",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":708},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"3b6252395fe1442ba07aa2ea17b77804",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":666},
+            "size":{
+              "width":440,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"94517f91cdd94c009dc7fc76319ebf9a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":666},
+                "size":{
+                  "width":440,
+                  "height":48}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c483ebe5631841a8aad4dfbd6b133757",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"62db538b5b004abf823439d483fd1e3c",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 链接",
+                              "target":{
+                                "targetType":"page",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"4986b61a3881461db315c0491d887878",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 点击消息体进入详情页(发送红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"点击消息体进入详情页_发送红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"87c87ce3731040709b703cd2a321ad6d",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":626},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"4b503a8fcc414c7c8ec4aaba4bd4f558",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":584},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6bcd81d7b7b64727afaae50e03257234",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":584},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d63ac5d0e12c43fbb8b41bbc3ed01ab2",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":528},
+            "size":{
+              "width":440,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f7f53c0638484f62a20e1fae342b165b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":528},
+                "size":{
+                  "width":440,
+                  "height":48}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"04a6fc191f28466d8e9090ca4bf034a2",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"9268a6d3ca5940a9a0cbf8f24fbe8eb3",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 点击消息体进入详情页(发送红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"点击消息体进入详情页_发送红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"539e3abb667648858e9ba1932093595d",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 【1个页面需视觉设计】第一次进入创建页面或详情页面时的引导",
+                              "target":{
+                                "targetType":"page",
+                                "url":"【1个页面需视觉设计】第一次进入创建页面或详情页面时的引导.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"d04af28792bf40338134de9e0b0a55e2",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 塞钱进红包（收红包的人）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"塞钱进红包（收红包的人）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"8f503d439735406e81426368b90129c9",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":498},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"22d8978dc0bf4340ada256c5a5ef6f88",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":456},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"460866e0c9d240e1a7ddab27ef271659",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":456},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"9e9e5f70fc85429fa910762359dde7ec",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":400},
+            "size":{
+              "width":440,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6bf8bb880be54e968b2994cdaeb2d445",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":400},
+                "size":{
+                  "width":440,
+                  "height":16}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"fcdd872e5b124aae945e26e5a376a7dd",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"a77cdee8e2bb46d0b9525c8af789005f",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 塞钱进红包（收红包的人）",
+                              "target":{
+                                "targetType":"page",
+                                "url":"塞钱进红包（收红包的人）.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"c6275a87b2d342f9a8b4285ef67c036d",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":58,
+              "y":370},
+            "size":{
+              "width":440,
+              "height":10},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC},
+            "linePattern":"dashed"},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u3_line.png"}},
+{
+          "id":"d9c116d182fb47c0bc8a5c0a36a86727",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"36px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7,
+              "opacity":1},
+            "location":{
+              "x":317,
+              "y":328},
+            "size":{
+              "width":181,
+              "height":42}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c6466ef47e234f97a039b1fe1fd151a0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"36px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7,
+                  "opacity":1},
+                "location":{
+                  "x":317,
+                  "y":328},
+                "size":{
+                  "width":181,
+                  "height":42}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"190c3c158d184c889e875f264cab100e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0000FF,
+              "opacity":1},
+            "location":{
+              "x":58,
+              "y":272},
+            "size":{
+              "width":440,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"819dd61f0ddf43db83e1bc1e06bccf43",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1},
+                "location":{
+                  "x":58,
+                  "y":272},
+                "size":{
+                  "width":440,
+                  "height":48}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b9ac4873f9a043d8856bc050e7dc9f90",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"4ddbd91ac1e14af48ba0d0c54ef84c54",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 因服务器定时处理，客户端需增加错误页面",
+                              "target":{
+                                "targetType":"page",
+                                "url":"因服务器定时处理，客户端需增加错误页面.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"13b7cc6ba277463696615fcbf7cbd0b7",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 点击消息体进入详情页(发送红包的人)",
+                              "target":{
+                                "targetType":"page",
+                                "url":"点击消息体进入详情页_发送红包的人_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true},
+{
+                  "id":"b0a164e4a3af4948bb7dc46f2248220e",
+                  "label":"",
+                  "type":"hyperlink",
+                  "styleType":"hyperlink",
+                  "visible":true,
+                  "style":{
+},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 用户未拆红包或未塞满过期，24小时返回金额",
+                              "target":{
+                                "targetType":"page",
+                                "url":"用户未拆红包或未塞满过期，24小时返回金额.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true}]}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "80891c5c6f454a229673a6e068c05b17":{
+      "scriptId":"u0"},
+    "dbc1f066265a46bbb21ba8dacae9be42":{
+      "scriptId":"u1"},
+    "1662c0df6e7a44458292758e2b1ecaaa":{
+      "scriptId":"u2"},
+    "20faf464736d4f87b78a5c0734258ef3":{
+      "scriptId":"u3"},
+    "63742338f1124873a98e9f20a302414f":{
+      "scriptId":"u4"},
+    "53de188c69c741348ef0e771e4c76686":{
+      "scriptId":"u5"},
+    "80070f59a0324c338f42373822eb3e70":{
+      "scriptId":"u6"},
+    "7b327724c8ee44139735a7b4cd27f773":{
+      "scriptId":"u7"},
+    "9f285904280e463289b17ab3d9b90d4b":{
+      "scriptId":"u8"},
+    "e7fcc5fe8c81441ebf90d2c2dd872c72":{
+      "scriptId":"u9"},
+    "9bcafea7195c4a89b3a3f7943032605b":{
+      "scriptId":"u10"},
+    "35ad9bf974cf4f549181c23b710fcf55":{
+      "scriptId":"u11"},
+    "eb6f2a8b626b40e58d24b918a1885a36":{
+      "scriptId":"u12"},
+    "e982194ac0f84991929c3ff32d92990e":{
+      "scriptId":"u13"},
+    "0b1b2b8504a746ffa8470e6dc7c347b7":{
+      "scriptId":"u14"},
+    "4f21a1561750450394302427439c9ef0":{
+      "scriptId":"u15"},
+    "f12e99e93f924eaca181ebf91dfc947d":{
+      "scriptId":"u16"},
+    "0ac9b9b75f4a4a00bb8981df67fb1249":{
+      "scriptId":"u17"},
+    "635937c912a145a0aa18d446e7a766af":{
+      "scriptId":"u18"},
+    "b135ff2cee6e4d069a1aaaa4e3c1b6fe":{
+      "scriptId":"u19"},
+    "377e3eaba98d497abe863ac346497005":{
+      "scriptId":"u20"},
+    "b3547fe72694446daabe1fabb404ebb6":{
+      "scriptId":"u21"},
+    "5ddd18c0411f4e27a4fe37477eed1310":{
+      "scriptId":"u22"},
+    "576f0c68730a49f59dd9bd6b2683906c":{
+      "scriptId":"u23"},
+    "c958aaa2468a4f58b4c76994e3982d44":{
+      "scriptId":"u24"},
+    "2f896c6ae381457ea46cfed2609236ca":{
+      "scriptId":"u25"},
+    "1114d2053b4044ca963d1e3079a7ee48":{
+      "scriptId":"u26"},
+    "403b5584e3bb4176a97fdcb0b2852cda":{
+      "scriptId":"u27"},
+    "a92e5e41b0164828ab81354857df9757":{
+      "scriptId":"u28"},
+    "cfb507da37764f53aa3913e33c024659":{
+      "scriptId":"u29"},
+    "480675283ebb4757984c73c398c6c632":{
+      "scriptId":"u30"},
+    "625b44db742c43919207b41d235e3603":{
+      "scriptId":"u31"},
+    "facd71195623470d86fbdfdccc50bb8b":{
+      "scriptId":"u32"},
+    "899b78fed3f54ac48003df55cdf3e157":{
+      "scriptId":"u33"},
+    "736b207a3f214b7680db5b9b56f851ec":{
+      "scriptId":"u34"},
+    "51e07c75534c4db3b13e55ab0dd0b3b6":{
+      "scriptId":"u35"},
+    "9e54343fc0b949df8beb94682839e981":{
+      "scriptId":"u36"},
+    "d1ec3551c0ce4baca95efa32802fc601":{
+      "scriptId":"u37"},
+    "3eddbcb593634da7b6000f31db1b3bd3":{
+      "scriptId":"u38"},
+    "02a440e825c54653b558550c344fced2":{
+      "scriptId":"u39"},
+    "1f42a58d5539420e9d35bd36da8c5cf0":{
+      "scriptId":"u40"},
+    "711c5f126f584ab7be7d83f0cdfa584a":{
+      "scriptId":"u41"},
+    "9ab5259cb7f24eb29681ed9db3e42d27":{
+      "scriptId":"u42"},
+    "97777f4861914496b9fb76fc6dce08b1":{
+      "scriptId":"u43"},
+    "7761b9e17d464d63b4267cb25ebb9f45":{
+      "scriptId":"u44"},
+    "1c29702d75c241d1bb1c53f5aaca8b08":{
+      "scriptId":"u45"},
+    "9e8879df97184ecebbe61b7481c5dec9":{
+      "scriptId":"u46"},
+    "f29f0431affb4d51a1daa9298f0a8db2":{
+      "scriptId":"u47"},
+    "e6a179b9e8d94e5ca5ea1668de1e4fcd":{
+      "scriptId":"u48"},
+    "f2359d099ac747dc9db10ba43971c5f1":{
+      "scriptId":"u49"},
+    "3bc9f89cf67a46f1b3126d0efa529595":{
+      "scriptId":"u50"},
+    "19d99d573c9746c5b5be8bb9e2d26474":{
+      "scriptId":"u51"},
+    "ab0b58d24fea4a85bd4bc3d0b740b7ff":{
+      "scriptId":"u52"},
+    "11d7c45ade56444dbf909cd106331b8c":{
+      "scriptId":"u53"},
+    "0bf34cb3462f48b18c8fcbfa39aa0860":{
+      "scriptId":"u54"},
+    "b8fa7204da4f45cb9ea9a16655bb3b08":{
+      "scriptId":"u55"},
+    "54a692ba3ccd4c7eab8af4d609e941ec":{
+      "scriptId":"u56"},
+    "99b09666bab1411e8707f921804c6d49":{
+      "scriptId":"u57"},
+    "935f682ca14747e5bd0b805f98d1765c":{
+      "scriptId":"u58"},
+    "645d5d8abccb4f81bfb53a37d1f4c0ed":{
+      "scriptId":"u59"},
+    "7f166285061b4ecbb837f1d1bf1bdf5f":{
+      "scriptId":"u60"},
+    "98963cf984f04a19bf2a21812f31d499":{
+      "scriptId":"u61"},
+    "fff1ef9ba3b64465a38d95a0fc42dea8":{
+      "scriptId":"u62"},
+    "3aac915074364adbb0b4f70b7a3bca19":{
+      "scriptId":"u63"},
+    "99c31decca3a462580bf5a92567aa0c7":{
+      "scriptId":"u64"},
+    "9990105b4c1846ba9a923729c51975d1":{
+      "scriptId":"u65"},
+    "12a7ddb92d9a4b799d710549d6afefc9":{
+      "scriptId":"u66"},
+    "2ea2d306aee6451193a5470b8f7808ec":{
+      "scriptId":"u67"},
+    "0115209f721a407cad0d74e8fc6d6cab":{
+      "scriptId":"u68"},
+    "e2d31883cd1144a0a4b7d5b6465702c6":{
+      "scriptId":"u69"},
+    "74f4a26c290b48c0b14b25a5d7c9f2c1":{
+      "scriptId":"u70"},
+    "50f3f69c692d49efa37b72dc37ef2efa":{
+      "scriptId":"u71"},
+    "90a2708cab774ad7b56100b4f2a797e3":{
+      "scriptId":"u72"},
+    "c686e9d918a74994954d2679f0d58280":{
+      "scriptId":"u73"},
+    "d17cefef6f9644c0ad221d4c1e305927":{
+      "scriptId":"u74"},
+    "37a66c448126492cb0446aa878379611":{
+      "scriptId":"u75"},
+    "3082ba5dfe35429db1ef0f9a646cb24b":{
+      "scriptId":"u76"},
+    "2d5b446ffa404666b84a4141977eb60f":{
+      "scriptId":"u77"},
+    "3dc771d20df544f698a2d96205674937":{
+      "scriptId":"u78"},
+    "c61f2e668b9a436c85c56c15e1d490ac":{
+      "scriptId":"u79"},
+    "033384db93384740ad4486b658894c75":{
+      "scriptId":"u80"},
+    "3b6252395fe1442ba07aa2ea17b77804":{
+      "scriptId":"u81"},
+    "94517f91cdd94c009dc7fc76319ebf9a":{
+      "scriptId":"u82"},
+    "c483ebe5631841a8aad4dfbd6b133757":{
+      "scriptId":"u83"},
+    "62db538b5b004abf823439d483fd1e3c":{
+      "scriptId":"u84"},
+    "4986b61a3881461db315c0491d887878":{
+      "scriptId":"u85"},
+    "87c87ce3731040709b703cd2a321ad6d":{
+      "scriptId":"u86"},
+    "4b503a8fcc414c7c8ec4aaba4bd4f558":{
+      "scriptId":"u87"},
+    "6bcd81d7b7b64727afaae50e03257234":{
+      "scriptId":"u88"},
+    "d63ac5d0e12c43fbb8b41bbc3ed01ab2":{
+      "scriptId":"u89"},
+    "f7f53c0638484f62a20e1fae342b165b":{
+      "scriptId":"u90"},
+    "04a6fc191f28466d8e9090ca4bf034a2":{
+      "scriptId":"u91"},
+    "9268a6d3ca5940a9a0cbf8f24fbe8eb3":{
+      "scriptId":"u92"},
+    "539e3abb667648858e9ba1932093595d":{
+      "scriptId":"u93"},
+    "d04af28792bf40338134de9e0b0a55e2":{
+      "scriptId":"u94"},
+    "8f503d439735406e81426368b90129c9":{
+      "scriptId":"u95"},
+    "22d8978dc0bf4340ada256c5a5ef6f88":{
+      "scriptId":"u96"},
+    "460866e0c9d240e1a7ddab27ef271659":{
+      "scriptId":"u97"},
+    "9e9e5f70fc85429fa910762359dde7ec":{
+      "scriptId":"u98"},
+    "6bf8bb880be54e968b2994cdaeb2d445":{
+      "scriptId":"u99"},
+    "fcdd872e5b124aae945e26e5a376a7dd":{
+      "scriptId":"u100"},
+    "a77cdee8e2bb46d0b9525c8af789005f":{
+      "scriptId":"u101"},
+    "c6275a87b2d342f9a8b4285ef67c036d":{
+      "scriptId":"u102"},
+    "d9c116d182fb47c0bc8a5c0a36a86727":{
+      "scriptId":"u103"},
+    "c6466ef47e234f97a039b1fe1fd151a0":{
+      "scriptId":"u104"},
+    "190c3c158d184c889e875f264cab100e":{
+      "scriptId":"u105"},
+    "819dd61f0ddf43db83e1bc1e06bccf43":{
+      "scriptId":"u106"},
+    "b9ac4873f9a043d8856bc050e7dc9f90":{
+      "scriptId":"u107"},
+    "4ddbd91ac1e14af48ba0d0c54ef84c54":{
+      "scriptId":"u108"},
+    "13b7cc6ba277463696615fcbf7cbd0b7":{
+      "scriptId":"u109"},
+    "b0a164e4a3af4948bb7dc46f2248220e":{
+      "scriptId":"u110"}}});

@@ -1,0 +1,157 @@
+﻿$axure.loadCurrentPage({
+  "url":"需求分析.html",
+  "generationDate":new Date(1464855297139.86),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"c2721e99afd24159b1dead0f8288b568",
+    "type":"Axure:Page",
+    "name":"需求分析",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ccd72d5f2c9142ddab6787bce2171c50",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontSize":"16px",
+            "fontWeight":"700",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":65,
+              "y":51},
+            "size":{
+              "width":300,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b89d5b2f81504b84ae733fffeb30ced9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontSize":"16px",
+                "fontWeight":"700",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":65,
+                  "y":51},
+                "size":{
+                  "width":300,
+                  "height":19}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"2e71515b2a9e4df7bdaebcb28ee55ed6",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":65,
+              "y":70},
+            "size":{
+              "width":985,
+              "height":10},
+            "borderWidth":"2",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF666666}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/众筹红包需求简介和更新记录/u2_line.png"}},
+{
+          "id":"c6681d1f200743b19d90983be3b0931a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontSize":"12px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF666666,
+              "opacity":1},
+            "location":{
+              "x":65,
+              "y":106},
+            "size":{
+              "width":995,
+              "height":240}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6796d86848b741349d9c597d83973f35",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"12px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF666666,
+                  "opacity":1},
+                "location":{
+                  "x":65,
+                  "y":106},
+                "size":{
+                  "width":995,
+                  "height":240}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "ccd72d5f2c9142ddab6787bce2171c50":{
+      "scriptId":"u0"},
+    "b89d5b2f81504b84ae733fffeb30ced9":{
+      "scriptId":"u1"},
+    "2e71515b2a9e4df7bdaebcb28ee55ed6":{
+      "scriptId":"u2"},
+    "c6681d1f200743b19d90983be3b0931a":{
+      "scriptId":"u3"},
+    "6796d86848b741349d9c597d83973f35":{
+      "scriptId":"u4"}}});
